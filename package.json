@@ -1,0 +1,29 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "test ",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "kia",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiaShamaei/angular.git"
+  },
+  "keywords": [
+    "kia",
+    "angular",
+    "learning"
+  ],
+  "author": "kia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiaShamaei/angular/issues"
+  },
+  "homepage": "https://github.com/KiaShamaei/angular#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
